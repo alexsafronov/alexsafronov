@@ -4,7 +4,7 @@ I am a seasoned Senior Statistical Programmer with extensive experience in SAS, 
 
 Key Expertise:
 
-SAS Mastery: Over 10 years of experience in leveraging SAS for data analysis, transformation, and reporting.
+Programming mastery: Over 10 years of experience in leveraging SAS, R, and Python for data analysis, transformation, and reporting.
 CDISC Proficiency: Skilled in producing CDISC-compliant datasets and quality control for FDA e-submissions.
 Statistical Methodology: Adept at applying statistical techniques for study design, analysis, and report generation.
 Career Highlights:
