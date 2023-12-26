@@ -1,6 +1,6 @@
 Professional Summary:
 
-I am a seasoned Senior Statistical Programmer with extensive experience in SAS, R, Python, CDISC, and statistical methodologies. With a career spanning over two decades, my expertise is in transforming complex data into insightful, actionable intelligence, primarily in the pharmaceutical and healthcare sectors.
+I am a Senior Statistical Programmer with extensive experience in SAS, R, Python, CDISC, and statistical methodologies. With a career spanning over two decades, my expertise is in transforming complex data into insightful, actionable intelligence, primarily in the pharmaceutical and healthcare sectors.
 
 Key Expertise:
 
